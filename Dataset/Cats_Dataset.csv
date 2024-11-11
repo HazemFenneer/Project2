@@ -1,0 +1,335 @@
+ID,Date,Age,Gender,Breed,Weight,Vaccination Status,Neutered/Spayed,Symptoms,Diagnosis
+1,2-Jun-24,5,Male,Siamese,6,Up-to-date,Yes,"Sneezing, nasal discharge, eye discharge",Upper Respiratory Infections
+2,2-Jun-24,8,Female,Persian,5,Up-to-date,No,"Excessive scratching, hair loss",Skin Allergies
+3,2-Jun-24,3,Male,Ragdoll,6.5,Up-to-date,Yes,"Vomiting, diarrhea",Gastrointestinal Problems
+4,3-Jun-24,12,Female,Himalayan,4.5,Up-to-date,Yes,"Increased thirst, weight loss",Diabetes
+5,3-Jun-24,7,Male,Turkish Van,7,Not up-to-date,No,"Ear scratching, head shaking",Ear Infections
+6,3-Jun-24,1,Female,Domestic Short Hair,3.5,Unknown,No,"Bald patches, hair loss",Ringworm
+7,3-Jun-24,9,Male,Egyptian Mau,5,Up-to-date,Yes,"Difficulty urinating, blood in urine",FLUTD
+8,3-Jun-24,4,Female,Siamese,5.5,Up-to-date,Yes,"Red eyes, squinting",Eye Issues
+9,4-Jun-24,2,Male,Stray,4,Not up-to-date,No,"Sneezing, coughing, nasal discharge",Upper Respiratory Infections
+10,4-Jun-24,11,Female,Persian,4.5,Up-to-date,Yes,"Increased thirst, urination",Kidney Disease
+11,5-Jun-24,6,Male,Ragdoll,6.8,Up-to-date,Yes,"Vomiting, lethargy, diarrhea",Gastrointestinal Problems
+12,5-Jun-24,15,Female,Himalayan,5,Up-to-date,No,"Lethargy, weight loss, increased thirst",Thyroid
+13,5-Jun-24,5,Male,Turkish Van,6.5,Up-to-date,Yes,"Difficulty walking, swollen joints",Arthritis
+14,6-Jun-24,3,Female,Egyptian Mau,4.5,Up-to-date,No,"Sneezing, coughing",Upper Respiratory Infections
+15,6-Jun-24,10,Male,Domestic Short Hair,5,Unknown,Yes,"Vomiting, diarrhea, lethargy",Panleukopenia
+16,6-Jun-24,8,Female,Stray,4,Not up-to-date,Yes,"Swollen paws, difficulty walking",Nail Disorders
+17,9-Jun-24,4,Male,Siamese,5,Up-to-date,No,"Itchy skin, redness",Allergies
+18,9-Jun-24,2,Female,Persian,3.5,Up-to-date,Yes,"Itchy ears, shaking head",Ear Infections
+19,9-Jun-24,13,Male,Ragdoll,7,Up-to-date,No,"Difficulty breathing, wheezing",Asthma
+20,9-Jun-24,6,Female,Himalayan,4,Up-to-date,Yes,"Sneezing, nasal discharge",Upper Respiratory Infections
+21,10-Jun-24,1,Male,Turkish Van,6,Not up-to-date,No,"Vomiting, abdominal pain",Gastrointestinal Problems
+22,10-Jun-24,7,Female,Egyptian Mau,5.5,Up-to-date,Yes,"Increased urination, increased thirst",Diabetes
+23,10-Jun-24,5,Male,Domestic Short Hair,5,Unknown,No,Bald patches,Ringworm
+24,10-Jun-24,3,Female,Stray,4.5,Not up-to-date,Yes,"Lethargy, vomiting",Poisoning
+25,10-Jun-24,12,Male,Siamese,6,Up-to-date,Yes,"Difficulty breathing, coughing",Asthma
+26,11-Jun-24,10,Female,Persian,5,Up-to-date,No,"Swollen eyes, discharge",Eye Issues
+27,11-Jun-24,14,Male,Ragdoll,7.5,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+28,11-Jun-24,9,Female,Himalayan,5.5,Up-to-date,No,"Itchy skin, hair loss",Skin Allergies
+29,11-Jun-24,8,Male,Turkish Van,7,Not up-to-date,Yes,"Vomiting, abdominal pain, diarrhea",Gastrointestinal Problems
+30,12-Jun-24,4,Female,Egyptian Mau,5,Up-to-date,Yes,"Coughing, sneezing, nasal discharge",Upper Respiratory Infections
+31,12-Jun-24,2,Male,Domestic Short Hair,4,Unknown,No,"Excessive scratching, small bald patches",Parasitic Infections
+32,12-Jun-24,1,Female,Stray,3.5,Not up-to-date,Yes,"Hair loss, skin redness",Allergies
+33,12-Jun-24,11,Male,Siamese,6.5,Up-to-date,No,"Difficulty breathing, intermittent coughing",Asthma
+34,13-Jun-24,7,Female,Persian,5.5,Up-to-date,Yes,"Excessive urination, increased thirst",Diabetes
+35,13-Jun-24,13,Male,Ragdoll,7.8,Up-to-date,Yes,"Limping, reluctance to jump",Arthritis
+36,13-Jun-24,6,Female,Himalayan,4.5,Up-to-date,No,"Increased drinking, weight loss",Kidney Disease
+37,13-Jun-24,8,Male,Turkish Van,6.8,Not up-to-date,Yes,"Itchy ears, shaking head, odor from ears",Ear Infections
+38,16-Jun-24,3,Female,Egyptian Mau,4.8,Up-to-date,No,"Lethargy, loss of appetite, vomiting",Gastrointestinal Problems
+39,16-Jun-24,1,Male,Domestic Short Hair,4.5,Unknown,Yes,"Hair loss, excessive scratching",Skin Allergies
+40,17-Jun-24,5,Female,Stray,4,Not up-to-date,No,"Discharge from eyes, red eyes",Eye Issues
+41,17-Jun-24,3,Female,Siamese,6,Up-to-date,Yes,"Sneezing, nasal discharge, eye discharge",Upper Respiratory Infections
+42,17-Jun-24,2,Male,Persian,5,Up-to-date,No,"Excessive scratching, hair loss",Skin Allergies
+43,18-Jun-24,4,Female,Ragdoll,6.5,Up-to-date,Yes,"Vomiting, diarrhea",Gastrointestinal Problems
+44,18-Jun-24,9,Male,Himalayan,4.5,Up-to-date,Yes,"Increased thirst, weight loss",Diabetes
+45,18-Jun-24,5,Female,Turkish Van,7,Not up-to-date,No,"Ear scratching, head shaking",Ear Infections
+46,18-Jun-24,7,Male,Domestic Short Hair,3.5,Unknown,No,"Bald patches, hair loss",Ringworm
+47,19-Jun-24,6,Female,Egyptian Mau,5,Up-to-date,Yes,"Difficulty urinating, blood in urine",FLUTD
+48,19-Jun-24,1,Male,Siamese,5.5,Up-to-date,Yes,"Red eyes, squinting",Eye Issues
+49,19-Jun-24,8,Female,Stray,4,Not up-to-date,No,"Sneezing, coughing, nasal discharge",Upper Respiratory Infections
+50,19-Jun-24,4,Male,Persian,4.5,Up-to-date,Yes,"Increased thirst, urination",Kidney Disease
+51,19-Jun-24,5,Female,Ragdoll,6.8,Up-to-date,Yes,"Vomiting, lethargy, diarrhea",Gastrointestinal Problems
+52,20-Jun-24,11,Male,Himalayan,5,Up-to-date,No,"Lethargy, weight loss, increased thirst",Thyroid
+53,20-Jun-24,3,Female,Turkish Van,6.5,Up-to-date,Yes,"Difficulty walking, swollen joints",Arthritis
+54,20-Jun-24,12,Male,Egyptian Mau,4.5,Up-to-date,No,"Sneezing, coughing",Upper Respiratory Infections
+55,20-Jun-24,10,Female,Domestic Short Hair,5,Unknown,Yes,"Vomiting, diarrhea, lethargy",Panleukopenia
+56,20-Jun-24,9,Male,Stray,4,Not up-to-date,Yes,"Swollen paws, difficulty walking",Nail Disorders
+57,20-Jun-24,13,Female,Siamese,5,Up-to-date,No,"Itchy skin, redness",Allergies
+58,23-Jun-24,1,Male,Persian,3.5,Up-to-date,Yes,"Itchy ears, shaking head",Ear Infections
+59,23-Jun-24,14,Female,Ragdoll,7,Up-to-date,No,"Difficulty breathing, wheezing",Asthma
+60,23-Jun-24,6,Male,Himalayan,4,Up-to-date,Yes,"Sneezing, nasal discharge",Upper Respiratory Infections
+61,23-Jun-24,8,Female,Turkish Van,6,Not up-to-date,No,"Vomiting, abdominal pain",Gastrointestinal Problems
+62,23-Jun-24,7,Male,Egyptian Mau,5.5,Up-to-date,Yes,"Increased urination, increased thirst",Diabetes
+63,24-Jun-24,2,Female,Domestic Short Hair,5,Unknown,No,Bald patches,Ringworm
+64,24-Jun-24,4,Male,Stray,4.5,Not up-to-date,Yes,"Lethargy, vomiting",Poisoning
+65,25-Jun-24,11,Female,Siamese,6,Up-to-date,Yes,"Difficulty breathing, coughing",Asthma
+66,25-Jun-24,10,Male,Persian,5,Up-to-date,No,"Swollen eyes, discharge",Eye Issues
+67,25-Jun-24,7,Female,Ragdoll,7.5,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+68,26-Jun-24,8,Male,Himalayan,5.5,Up-to-date,No,"Itchy skin, hair loss",Skin Allergies
+69,26-Jun-24,9,Female,Turkish Van,7,Not up-to-date,Yes,"Vomiting, abdominal pain, diarrhea",Gastrointestinal Problems
+70,27-Jun-24,5,Male,Egyptian Mau,5,Up-to-date,Yes,"Coughing, sneezing, nasal discharge",Upper Respiratory Infections
+71,27-Jun-24,3,Female,Domestic Short Hair,4,Unknown,No,"Excessive scratching, small bald patches",Parasitic Infections
+72,27-Jun-24,2,Male,Stray,3.5,Not up-to-date,Yes,"Hair loss, skin redness",Allergies
+73,27-Jun-24,4,Female,Siamese,5.5,Up-to-date,No,"Difficulty breathing, intermittent coughing",Asthma
+74,30-Jun-24,6,Male,Persian,5.5,Up-to-date,Yes,"Excessive urination, increased thirst",Diabetes
+75,30-Jun-24,12,Female,Ragdoll,7.8,Up-to-date,Yes,"Limping, reluctance to jump",Arthritis
+76,30-Jun-24,5,Male,Himalayan,4.5,Up-to-date,No,"Increased drinking, weight loss",Kidney Disease
+77,1-Jul-24,7,Female,Turkish Van,6.8,Not up-to-date,Yes,"Itchy ears, shaking head, odor from ears",Ear Infections
+78,1-Jul-24,8,Male,Egyptian Mau,4.8,Up-to-date,No,"Lethargy, loss of appetite, vomiting",Gastrointestinal Problems
+79,1-Jul-24,9,Female,Domestic Short Hair,4.5,Unknown,Yes,"Hair loss, excessive scratching",Skin Allergies
+80,1-Jul-24,1,Male,Stray,4,Not up-to-date,No,"Discharge from eyes, red eyes",Eye Issues
+81,2-Jul-24,11,Female,Siamese,6.5,Up-to-date,Yes,"Difficulty breathing, intermittent coughing",Asthma
+82,2-Jul-24,12,Male,Persian,5.5,Up-to-date,No,"Increased drinking, urination",Kidney Disease
+83,2-Jul-24,13,Female,Ragdoll,7,Up-to-date,Yes,"Limping, difficulty walking",Arthritis
+84,2-Jul-24,6,Male,Himalayan,4,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+85,2-Jul-24,4,Female,Turkish Van,6,Not up-to-date,No,"Vomiting, abdominal pain",Gastrointestinal Problems
+86,3-Jul-24,7,Male,Egyptian Mau,5.5,Up-to-date,Yes,"Increased urination, increased thirst",Diabetes
+87,3-Jul-24,8,Female,Domestic Short Hair,5,Unknown,No,Bald patches,Ringworm
+88,3-Jul-24,3,Male,Stray,4.5,Not up-to-date,Yes,"Lethargy, vomiting",Poisoning
+89,3-Jul-24,11,Female,Siamese,6,Up-to-date,Yes,"Difficulty breathing, coughing",Asthma
+90,3-Jul-24,10,Male,Persian,5,Up-to-date,No,,
+91,4-Jul-24,2,Male,Siamese,6,Up-to-date,Yes,"Sneezing, nasal discharge, eye discharge",Upper Respiratory Infections
+92,4-Jul-24,4,Female,Persian,5,Up-to-date,No,"Excessive scratching, hair loss",Skin Allergies
+93,4-Jul-24,3,Male,Ragdoll,6.5,Up-to-date,Yes,"Vomiting, diarrhea",Gastrointestinal Problems
+94,7-Jul-24,7,Female,Himalayan,4.5,Up-to-date,Yes,"Increased thirst, weight loss",Diabetes
+95,7-Jul-24,6,Male,Turkish Van,7,Not up-to-date,No,"Ear scratching, head shaking",Ear Infections
+96,7-Jul-24,5,Female,Domestic Short Hair,3.5,Unknown,No,"Bald patches, hair loss",Ringworm
+97,7-Jul-24,1,Male,Egyptian Mau,5,Up-to-date,Yes,"Difficulty urinating, blood in urine",FLUTD
+98,8-Jul-24,8,Female,Siamese,5.5,Up-to-date,Yes,"Red eyes, squinting",Eye Issues
+99,8-Jul-24,9,Male,Stray,4,Not up-to-date,No,"Sneezing, coughing, nasal discharge",Upper Respiratory Infections
+100,8-Jul-24,3,Female,Persian,4.5,Up-to-date,Yes,"Increased thirst, urination",Kidney Disease
+101,9-Jul-24,4,Male,Ragdoll,6.8,Up-to-date,Yes,"Vomiting, lethargy, diarrhea",Gastrointestinal Problems
+102,9-Jul-24,10,Female,Himalayan,5,Up-to-date,No,"Lethargy, weight loss, increased thirst",Thyroid
+103,10-Jul-24,12,Male,Turkish Van,6.5,Up-to-date,Yes,"Difficulty walking, swollen joints",Arthritis
+104,10-Jul-24,11,Female,Egyptian Mau,4.5,Up-to-date,No,"Sneezing, coughing",Upper Respiratory Infections
+105,10-Jul-24,7,Male,Domestic Short Hair,5,Unknown,Yes,"Vomiting, diarrhea, lethargy",Panleukopenia
+106,11-Jul-24,8,Female,Stray,4,Not up-to-date,Yes,"Swollen paws, difficulty walking",Nail Disorders
+107,11-Jul-24,2,Male,Siamese,5,Up-to-date,No,"Itchy skin, redness",Allergies
+108,14-Jul-24,1,Female,Persian,3.5,Up-to-date,Yes,"Itchy ears, shaking head",Ear Infections
+109,14-Jul-24,13,Male,Ragdoll,7,Up-to-date,No,"Difficulty breathing, wheezing",Asthma
+110,14-Jul-24,5,Female,Himalayan,4,Up-to-date,Yes,"Sneezing, nasal discharge",Upper Respiratory Infections
+111,14-Jul-24,3,Male,Turkish Van,6,Not up-to-date,No,"Vomiting, abdominal pain",Gastrointestinal Problems
+112,14-Jul-24,4,Female,Egyptian Mau,5.5,Up-to-date,Yes,"Increased urination, increased thirst",Diabetes
+113,15-Jul-24,6,Male,Domestic Short Hair,5,Unknown,No,Bald patches,Ringworm
+114,15-Jul-24,7,Female,Stray,4.5,Not up-to-date,Yes,"Lethargy, vomiting",Poisoning
+115,15-Jul-24,8,Male,Siamese,6,Up-to-date,Yes,"Difficulty breathing, coughing",Asthma
+116,15-Jul-24,9,Female,Persian,5,Up-to-date,No,"Swollen eyes, discharge",Eye Issues
+117,15-Jul-24,10,Male,Ragdoll,7.5,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+118,16-Jul-24,11,Female,Himalayan,5.5,Up-to-date,No,"Itchy skin, hair loss",Skin Allergies
+119,16-Jul-24,12,Male,Turkish Van,7,Not up-to-date,Yes,"Vomiting, abdominal pain, diarrhea",Gastrointestinal Problems
+120,16-Jul-24,13,Female,Egyptian Mau,5,Up-to-date,Yes,"Coughing, sneezing, nasal discharge",Upper Respiratory Infections
+121,17-Jul-24,14,Male,Domestic Short Hair,4,Unknown,No,"Excessive scratching, small bald patches",Parasitic Infections
+122,17-Jul-24,15,Female,Stray,3.5,Not up-to-date,Yes,"Hair loss, skin redness",Allergies
+123,17-Jul-24,16,Male,Siamese,5.5,Up-to-date,No,"Difficulty breathing, intermittent coughing",Asthma
+124,18-Jul-24,17,Female,Persian,5.5,Up-to-date,Yes,"Excessive urination, increased thirst",Diabetes
+125,18-Jul-24,18,Male,Ragdoll,7.8,Up-to-date,Yes,"Limping, reluctance to jump",Arthritis
+126,18-Jul-24,19,Female,Himalayan,4.5,Up-to-date,No,"Increased drinking, weight loss",Kidney Disease
+127,21-Jul-24,20,Male,Turkish Van,6.8,Not up-to-date,Yes,"Itchy ears, shaking head, odor from ears",Ear Infections
+128,21-Jul-24,21,Female,Egyptian Mau,4.8,Up-to-date,No,"Lethargy, loss of appetite, vomiting",Gastrointestinal Problems
+129,21-Jul-24,22,Male,Domestic Short Hair,4.5,Unknown,Yes,"Hair loss, excessive scratching",Skin Allergies
+130,21-Jul-24,23,Female,Stray,4,Not up-to-date,No,"Discharge from eyes, red eyes",Eye Issues
+131,22-Jul-24,24,Male,Siamese,6.5,Up-to-date,Yes,"Difficulty breathing, intermittent coughing",Asthma
+132,22-Jul-24,25,Female,Persian,5.5,Up-to-date,No,"Increased drinking, urination",Kidney Disease
+133,22-Jul-24,26,Male,Ragdoll,7,Up-to-date,Yes,"Limping, difficulty walking",Arthritis
+134,23-Jul-24,27,Female,Himalayan,4,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+135,23-Jul-24,28,Male,Turkish Van,6,Not up-to-date,No,,
+136,23-Jul-24,3,Male,Siamese,6.3,Up-to-date,Yes,"Nasal discharge, sneezing",Upper Respiratory Infections
+137,23-Jul-24,2,Female,Persian,4.8,Up-to-date,No,"Itchy skin, redness",Skin Allergies
+138,23-Jul-24,1,Male,Ragdoll,6.1,Up-to-date,Yes,"Vomiting, lethargy",Gastrointestinal Problems
+139,24-Jul-24,5,Female,Himalayan,4.9,Up-to-date,Yes,Increased thirst,Diabetes
+140,24-Jul-24,6,Male,Turkish Van,7.2,Not up-to-date,No,Ear scratching,Ear Infections
+141,24-Jul-24,4,Female,Domestic Short Hair,3.8,Unknown,No,"Hair loss, bald patches",Ringworm
+142,24-Jul-24,2,Male,Egyptian Mau,5.2,Up-to-date,Yes,Blood in urine,FLUTD
+143,24-Jul-24,9,Female,Siamese,5.6,Up-to-date,Yes,"Squinting, red eyes",Eye Issues
+144,25-Jul-24,3,Male,Stray,4.3,Not up-to-date,No,"Coughing, sneezing",Upper Respiratory Infections
+145,25-Jul-24,7,Female,Persian,4.7,Up-to-date,Yes,Increased urination,Kidney Disease
+146,25-Jul-24,8,Male,Ragdoll,7,Up-to-date,Yes,"Lethargy, diarrhea",Gastrointestinal Problems
+147,28-Jul-24,4,Female,Himalayan,5.1,Up-to-date,No,Weight loss,Thyroid
+148,28-Jul-24,5,Male,Turkish Van,7.3,Up-to-date,Yes,Swollen joints,Arthritis
+149,28-Jul-24,6,Female,Egyptian Mau,5.1,Up-to-date,No,Coughing,Upper Respiratory Infections
+150,29-Jul-24,2,Male,Domestic Short Hair,4,Unknown,Yes,"Lethargy, vomiting",Panleukopenia
+151,29-Jul-24,3,Female,Stray,4.2,Not up-to-date,Yes,Swollen paws,Nail Disorders
+152,29-Jul-24,7,Male,Siamese,6.1,Up-to-date,No,Itchy skin,Allergies
+153,30-Jul-24,5,Female,Persian,4,Up-to-date,Yes,"Shaking head, itchy ears",Ear Infections
+154,30-Jul-24,6,Male,Ragdoll,7.4,Up-to-date,No,"Wheezing, difficulty breathing",Asthma
+155,31-Jul-24,8,Female,Himalayan,4.2,Up-to-date,Yes,Nasal discharge,Upper Respiratory Infections
+156,31-Jul-24,3,Male,Turkish Van,6.9,Not up-to-date,No,"Abdominal pain, vomiting",Gastrointestinal Problems
+157,31-Jul-24,4,Female,Egyptian Mau,5.3,Up-to-date,Yes,"Increased thirst, increased urination",Diabetes
+158,31-Jul-24,5,Male,Domestic Short Hair,4.9,Unknown,No,"Hair loss, bald patches",Ringworm
+159,31-Jul-24,7,Female,Stray,4.4,Not up-to-date,Yes,"Vomiting, lethargy",Poisoning
+160,31-Jul-24,8,Male,Siamese,6.4,Up-to-date,Yes,"Coughing, difficulty breathing",Asthma
+161,1-Aug-24,9,Female,Persian,4.8,Up-to-date,No,"Discharge from eyes, swollen eyes",Eye Issues
+162,1-Aug-24,10,Male,Ragdoll,7.6,Up-to-date,Yes,"Lethargy, increased drinking",Kidney Disease
+163,1-Aug-24,11,Female,Himalayan,5.4,Up-to-date,No,"Itchy skin, hair loss",Skin Allergies
+164,1-Aug-24,6,Male,Turkish Van,7.1,Up-to-date,Yes,"Vomiting, abdominal pain",Gastrointestinal Problems
+165,4-Aug-24,5,Female,Egyptian Mau,5.2,Up-to-date,No,"Sneezing, coughing",Upper Respiratory Infections
+166,4-Aug-24,4,Male,Domestic Short Hair,4.3,Unknown,Yes,"Small bald patches, excessive scratching",Parasitic Infections
+167,4-Aug-24,3,Female,Stray,4.1,Not up-to-date,Yes,"Redness, hair loss",Allergies
+168,4-Aug-24,2,Male,Siamese,6.2,Up-to-date,No,Intermittent coughing,Asthma
+169,5-Aug-24,1,Female,Persian,4.1,Up-to-date,Yes,"Increased thirst, urination",Diabetes
+170,5-Aug-24,8,Male,Ragdoll,7.7,Up-to-date,Yes,"Limping, reluctance to jump",Arthritis
+171,6-Aug-24,7,Female,Himalayan,4.6,Up-to-date,No,"Increased drinking, weight loss",Kidney Disease
+172,6-Aug-24,6,Male,Turkish Van,7.4,Not up-to-date,Yes,"Itchy ears, odor from ears",Ear Infections
+173,6-Aug-24,5,Female,Egyptian Mau,5,Up-to-date,No,"Lethargy, loss of appetite",Gastrointestinal Problems
+174,6-Aug-24,4,Male,Domestic Short Hair,4.6,Unknown,Yes,Excessive scratching,Skin Allergies
+175,7-Aug-24,3,Female,Stray,4.5,Not up-to-date,No,"Red eyes, discharge",Eye Issues
+176,7-Aug-24,2,Male,Siamese,6,Up-to-date,Yes,Intermittent coughing,Asthma
+177,7-Aug-24,1,Female,Persian,4.2,Up-to-date,Yes,"Increased drinking, urination",Kidney Disease
+178,8-Aug-24,5,Male,Ragdoll,7.5,Up-to-date,Yes,Difficulty walking,Arthritis
+179,8-Aug-24,6,Female,Himalayan,4.7,Up-to-date,No,"Increased drinking, lethargy",Kidney Disease
+180,11-Aug-24,7,Male,Turkish Van,7.2,Not up-to-date,Yes,Abdominal pain,Gastrointestinal Problems
+181,11-Aug-24,8,Female,Egyptian Mau,5.3,Up-to-date,No,"Coughing, nasal discharge",Upper Respiratory Infections
+182,11-Aug-24,9,Male,Domestic Short Hair,4.4,Unknown,Yes,"Bald patches, hair loss",Ringworm
+183,11-Aug-24,10,Female,Stray,4.2,Not up-to-date,Yes,"Vomiting, lethargy",Poisoning
+184,11-Aug-24,11,Male,Siamese,6.5,Up-to-date,No,Difficulty breathing,Asthma
+185,12-Aug-24,12,Female,Persian,4.9,Up-to-date,Yes,"Swollen eyes, discharge",Eye Issues
+186,12-Aug-24,13,Male,Ragdoll,7.9,Up-to-date,Yes,"Lethargy, increased drinking",Kidney Disease
+187,12-Aug-24,14,Female,Himalayan,4.8,Up-to-date,No,"Hair loss, itchy skin",Skin Allergies
+188,13-Aug-24,15,Male,Turkish Van,7.5,Not up-to-date,Yes,"Vomiting, diarrhea",Gastrointestinal Problems
+189,13-Aug-24,16,Female,Egyptian Mau,5.4,Up-to-date,No,"Coughing, sneezing",Upper Respiratory Infections
+190,13-Aug-24,17,Male,Domestic Short Hair,4.5,Unknown,Yes,"Bald patches, excessive scratching",Parasitic Infections
+191,14-Aug-24,18,Female,Stray,4.3,Not up-to-date,Yes,"Hair loss, skin redness",Allergies
+192,14-Aug-24,12,Male,Siamese,6.6,Up-to-date,No,"Intermittent coughing, wheezing",Asthma
+193,14-Aug-24,11,Female,Persian,5,Up-to-date,Yes,"Increased urination, increased thirst",Diabetes
+194,14-Aug-24,10,Male,Ragdoll,8,Up-to-date,Yes,"Difficulty jumping, limping",Arthritis
+195,14-Aug-24,9,Female,Himalayan,5,Up-to-date,No,"Increased drinking, weight loss",Kidney Disease
+196,15-Aug-24,8,Male,Turkish Van,7.6,Not up-to-date,Yes,"Itchy ears, shaking head",Ear Infections
+197,15-Aug-24,7,Female,Egyptian Mau,5.5,Up-to-date,No,"Lethargy, vomiting",Gastrointestinal Problems
+198,15-Aug-24,6,Male,Domestic Short Hair,4.7,Unknown,Yes,Bald patches,Ringworm
+199,18-Aug-24,5,Female,Stray,4.4,Not up-to-date,Yes,"Excessive scratching, small bald patches",Parasitic Infections
+200,18-Aug-24,4,Male,Siamese,6.7,Up-to-date,No,Difficulty breathing,Asthma
+201,18-Aug-24,3,Female,Persian,4.3,Up-to-date,Yes,"Increased thirst, urination",Diabetes
+202,18-Aug-24,2,Male,Ragdoll,6.4,Up-to-date,Yes,"Vomiting, lethargy",Gastrointestinal Problems
+203,18-Aug-24,1,Female,Himalayan,4.9,Up-to-date,No,"Sneezing, nasal discharge",Upper Respiratory Infections
+204,19-Aug-24,8,Male,Turkish Van,7.7,Not up-to-date,Yes,"Itchy skin, redness",Skin Allergies
+205,19-Aug-24,9,Female,Egyptian Mau,5.6,Up-to-date,No,"Difficulty urinating, blood in urine",FLUTD
+206,19-Aug-24,10,Male,Domestic Short Hair,4.8,Unknown,Yes,"Hair loss, lethargy",Ringworm
+207,19-Aug-24,11,Female,Stray,4.5,Not up-to-date,Yes,"Red eyes, squinting",Eye Issues
+208,20-Aug-24,12,Male,Siamese,6.8,Up-to-date,No,"Wheezing, difficulty breathing",Asthma
+209,20-Aug-24,13,Female,Persian,5.1,Up-to-date,Yes,"Swollen eyes, discharge",Eye Issues
+210,21-Aug-24,14,Male,Ragdoll,8.1,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+211,21-Aug-24,15,Female,Himalayan,5.1,Up-to-date,No,"Itchy skin, hair loss",Skin Allergies
+212,21-Aug-24,16,Male,Turkish Van,7.8,Not up-to-date,Yes,"Vomiting, abdominal pain, diarrhea",Gastrointestinal Problems
+213,21-Aug-24,17,Female,Egyptian Mau,5.7,Up-to-date,No,"Coughing, sneezing",Upper Respiratory Infections
+214,21-Aug-24,18,Male,Domestic Short Hair,4.9,Unknown,Yes,"Bald patches, excessive scratching",Parasitic Infections
+215,22-Aug-24,19,Female,Stray,4.6,Not up-to-date,Yes,"Hair loss, skin redness",Allergies
+216,22-Aug-24,13,Male,Siamese,7,Up-to-date,No,"Intermittent coughing, wheezing",Asthma
+217,25-Aug-24,12,Female,Persian,5.2,Up-to-date,Yes,"Increased urination, increased thirst",Diabetes
+218,25-Aug-24,11,Male,Ragdoll,8.2,Up-to-date,Yes,"Difficulty jumping, limping",Arthritis
+219,25-Aug-24,10,Female,Himalayan,5.2,Up-to-date,No,"Increased drinking, weight loss",Kidney Disease
+220,25-Aug-24,9,Male,Turkish Van,7.9,Not up-to-date,Yes,"Itchy ears, shaking head",Ear Infections
+221,26-Aug-24,8,Female,Egyptian Mau,5.8,Up-to-date,No,"Lethargy, vomiting",Gastrointestinal Problems
+222,26-Aug-24,7,Male,Domestic Short Hair,5,Unknown,Yes,Bald patches,Ringworm
+223,26-Aug-24,6,Female,Stray,4.7,Not up-to-date,Yes,"Excessive scratching, small bald patches",Parasitic Infections
+224,27-Aug-24,5,Male,Siamese,7.1,Up-to-date,No,Difficulty breathing,Asthma
+225,27-Aug-24,4,Female,Persian,4.4,Up-to-date,Yes,"Increased thirst, urination",Diabetes
+226,27-Aug-24,3,Male,Ragdoll,6.5,Up-to-date,Yes,"Vomiting, lethargy",Gastrointestinal Problems
+227,28-Aug-24,2,Female,Himalayan,5,Up-to-date,No,"Sneezing, nasal discharge",Upper Respiratory Infections
+228,28-Aug-24,1,Male,Turkish Van,7.9,Not up-to-date,Yes,"Itchy skin, redness",Skin Allergies
+229,28-Aug-24,1,Female,Egyptian Mau,5.9,Up-to-date,No,"Difficulty urinating, blood in urine",FLUTD
+230,28-Aug-24,1,Male,Domestic Short Hair,5.1,Unknown,Yes,"Hair loss, lethargy",Ringworm
+231,28-Aug-24,1,Female,Stray,4.6,Not up-to-date,Yes,"Red eyes, squinting",Eye Issues
+232,29-Aug-24,1,Male,Siamese,7.2,Up-to-date,No,"Wheezing, difficulty breathing",Asthma
+233,29-Aug-24,1,Female,Persian,5.3,Up-to-date,Yes,"Swollen eyes, discharge",Eye Issues
+234,29-Aug-24,1,Male,Ragdoll,8.3,Up-to-date,Yes,"Increased drinking, lethargy",Kidney Disease
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
